@@ -1,0 +1,2 @@
+# spogwizd_jporeba_projekt_bazydanych
+System zarządzania pieśniami i treściami multimedialnymi
